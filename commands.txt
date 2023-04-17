@@ -1,3 +1,0 @@
- Q. What is the difference between git restore filename and git restore --staged filename?
-[C[C[C  Git restore is the updated file
-Git restore --staged [A[D[D[D[D[D[D[D[D[D[D "fileName" : This command restore the updated content.[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C"fileName" : This command restore unstaged file
